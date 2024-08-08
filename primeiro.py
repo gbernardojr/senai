@@ -9,3 +9,5 @@
 numero = input("digite um número: ")
 outroNumero = input("digite outro número:")
 print("A soma é ", float(numero) + float(outroNumero))
+
+print('M')
